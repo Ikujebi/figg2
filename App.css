@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "neuton800";
+}
+
+button{
+  border-radius: 20px;
+  border: 1px solid ;
+  margin-left: 4rem;
+}
+
+@keyframes identifier {
+  
+}
